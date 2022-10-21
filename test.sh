@@ -1,0 +1,2 @@
+javac DocSearchTest.java
+java DocSearchTest
